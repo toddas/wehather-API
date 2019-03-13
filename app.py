@@ -1,3 +1,8 @@
+#TODO
+#implament djnago
+#make a full fledged website
+
+
 import urllib.request
 import json
 
@@ -16,4 +21,4 @@ icona = parse_data["weather"][0]["icon"]
 
 print(str(temperatura) + "C")
 print(oras)
-print(icona)
+#print(icona)
